@@ -22,7 +22,7 @@
 // 7. Multi-Platform Support - A web-based application with downloadable versions for Windows and Mac, along with a mobile app for viewing insights on the go.
 // 8. User Input and AI Learning - Users can manually input data, and AI learns from their preferences over time.
 
-// 1. Getting and Time Management.
+// 1. Organization and Time Management.
 
 // - To build Alpha Pi - AI Accountant successfully, I will need a system to manage development milestones, business requirements, and personal commitments.
 // I will need some strategies for staying organized, such as using a calendar system, to schedule major development phases, testing periods, and business planning meetings.
